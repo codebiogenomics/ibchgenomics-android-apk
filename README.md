@@ -2,12 +2,15 @@
 
 ![](https://github.com/IBCHgenomic/eVaiutilities/blob/main/logo.png)
 
-- ibchgenomics mobile app client for complete ibchgenomics.
-- Developed using React Native and Expo.
-- It includes sample booking, meeting for discussion with the bioinformatician, or sequencing facility.
-- Illumina read analyzer.
-- Many more including long read analysis and cloud native technologies coming to this app.
-- In new version, you can analyze any data you have sequenced at the Laboratory of Genomics with in this application.
+What it does: 
+1. ibchgenomics mobile app client for complete ibchgenomics.
+2. Developed using React Native and Expo.
+3. It includes sample booking, meeting for discussion with the bioinformatician, or sequencing facility.
+4. Illumina read analyzer.
+5. Many more including long read analysis and cloud native technologies coming to this app.
+6. In new version, you can analyze any data you have sequenced at the Laboratory of Genomics with in this application.
+
+Available soon from Google store and also iOS. You can download the development APK and also from F-Droid. 
 
 Availble soon from Google store and also iOS. You can download the development APK and also from F-Droid. 
 
